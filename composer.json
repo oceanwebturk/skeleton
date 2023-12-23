@@ -1,0 +1,19 @@
+{
+  "name": "ocenwebturk/ocenwebturk",
+  "description": "The OceanWebTurk Framework Skeleton",
+  "type": "project",
+  "keywords":["ocenwebturk","framework"],
+  "license": "MIT",
+  "homepage":"https://github.com/ocenwebturk/ocenwebturk",
+  "config":{
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true,
+    "classmap-authoritative": true
+  },
+  "require":{
+    "php": ">=7.4"
+  },
+  "minimum-stability":"dev",
+  "prefer-stable":true
+}
